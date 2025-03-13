@@ -1,0 +1,9 @@
+Vivado Simulator 2020.2
+Time resolution is 1 ps
+Error:  Error : [Unisim MMCME2_ADV-148] The attribute CLKIN1_PERIOD is set to 0.000000e+00 ns and out the allowed range 9.380000e-01 ns to 1.000000e+02 ns.
+
+Time: 1 ps  Iteration: 0  Process: /piano_tb/uut/MMCM_INST/MMCME2_ADV_inst/clkinsel_p  File: C:/Xilinx/Vivado/2020.2/data/vhdl/src/unisims/primitive/MMCME2_ADV.vhd
+Warning: Warning : [Unisim MMCME2_ADV-162] input CLKIN1 period and attribute CLKIN1_PERIOD are not same.
+Time: 375 ns  Iteration: 5  Process: /piano_tb/uut/MMCM_INST/MMCME2_ADV_inst/pchk_p  File: C:/Xilinx/Vivado/2020.2/data/vhdl/src/unisims/primitive/MMCME2_ADV.vhd
+Warning: Warning : [Unisim MMCME2_ADV-162] input CLKIN1 period and attribute CLKIN1_PERIOD are not same.
+Time: 110395 ns  Iteration: 5  Process: /piano_tb/uut/MMCM_INST/MMCME2_ADV_inst/pchk_p  File: C:/Xilinx/Vivado/2020.2/data/vhdl/src/unisims/primitive/MMCME2_ADV.vhd

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Tue Apr 11 17:37:19 2023
+# Process ID: 3088
+# Current directory: C:/Users/asa2276/Desktop/piano_lab/piano_lab.runs/impl_1
+# Command line: vivado.exe -log piano.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source piano.tcl -notrace
+# Log file: C:/Users/asa2276/Desktop/piano_lab/piano_lab.runs/impl_1/piano.vdi
+# Journal file: C:/Users/asa2276/Desktop/piano_lab/piano_lab.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source piano.tcl -notrace

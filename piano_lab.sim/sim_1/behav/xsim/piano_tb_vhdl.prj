@@ -1,0 +1,10 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../src/clk_dvd.vhd" \
+"../../../../src/seven_seg.vhd" \
+"../../../../src/note_gen.vhd" \
+"../../../../src/piano.vhd" \
+"../../../../src/piano_tb.vhd" \
+
+# Do not sort compile order
+nosort
